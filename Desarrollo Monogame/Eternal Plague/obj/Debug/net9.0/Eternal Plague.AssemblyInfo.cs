@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eternal Plague")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f618bb3f5e2c098782b349ca5c0eb62551a948a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54565d4c7aff0998f77f7a952c7710d640c7dd76")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eternal Plague")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eternal Plague")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

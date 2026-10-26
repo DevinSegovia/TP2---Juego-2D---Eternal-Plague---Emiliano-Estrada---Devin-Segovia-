@@ -4,10 +4,12 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>c:/Users/ASUS/Documents/TP2_Juego2D_Eternal_Plague/Desarrollo Monogame/Eternal Plague/Content/Font/FontPrincipal.spritefont</File>
     <File>c:/Users/ASUS/Documents/TP2_Juego2D_Eternal_Plague/Desarrollo Monogame/Eternal Plague/Content/images/Fumigador.png</File>
     <File>c:/Users/ASUS/Documents/TP2_Juego2D_Eternal_Plague/Desarrollo Monogame/Eternal Plague/Content/images/PisoPared.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>

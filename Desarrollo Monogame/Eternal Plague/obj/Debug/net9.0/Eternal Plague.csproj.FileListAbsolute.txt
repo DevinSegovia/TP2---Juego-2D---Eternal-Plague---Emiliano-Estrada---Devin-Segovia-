@@ -154,3 +154,4 @@ C:\Users\ASUS\Documents\TP2_Juego2D_Eternal_Plague\Desarrollo Monogame\Eternal P
 C:\Users\ASUS\Documents\TP2_Juego2D_Eternal_Plague\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\Fumigador.xnb
 C:\Users\ASUS\Documents\TP2_Juego2D_Eternal_Plague\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\PisoPared.xnb
 C:\Users\ASUS\Documents\TP2_Juego2D_Eternal_Plague\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\mgcb.tool.restore
+c:\Users\ASUS\Documents\TP2_Juego2D_Eternal_Plague\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\Font\FontPrincipal.xnb

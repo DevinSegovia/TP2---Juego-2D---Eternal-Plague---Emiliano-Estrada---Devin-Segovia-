@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>c:/Users/ASUS/Documents/TP2_Juego2D_Eternal_Plague/Desarrollo Monogame/Eternal Plague/Content/images/PisoPared.png</SourceFile>
-  <SourceTime>2026-10-24T18:54:42.3354614-03:00</SourceTime>
+  <SourceTime>2026-10-25T06:44:30.959648-03:00</SourceTime>
   <DestFile>c:/Users/ASUS/Documents/TP2_Juego2D_Eternal_Plague/Desarrollo Monogame/Eternal Plague/Content/bin/DesktopGL/Content/images/PisoPared.xnb</DestFile>
-  <DestTime>2026-10-24T20:47:11.2551201-03:00</DestTime>
+  <DestTime>2026-10-26T06:09:16.0401464-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2026-08-14T18:50:10-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
