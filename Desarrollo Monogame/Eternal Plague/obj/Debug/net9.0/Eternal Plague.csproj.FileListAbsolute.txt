@@ -155,3 +155,49 @@ C:\Users\ASUS\Documents\TP2_Juego2D_Eternal_Plague\Desarrollo Monogame\Eternal P
 C:\Users\ASUS\Documents\TP2_Juego2D_Eternal_Plague\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\PisoPared.xnb
 C:\Users\ASUS\Documents\TP2_Juego2D_Eternal_Plague\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\mgcb.tool.restore
 c:\Users\ASUS\Documents\TP2_Juego2D_Eternal_Plague\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\Font\FontPrincipal.xnb
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\Font\FontPrincipal.xnb
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\tilemap-definition.xml
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\tilemap-paredes.xml
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\tilemap-piso.xml
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\Fumigador.xnb
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\PisoPared.xnb
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Eternal Plague.deps.json
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Eternal Plague.runtimeconfig.json
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Eternal Plague.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Eternal Plague.pdb
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\MonoGame.Framework.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\NVorbis.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\MonoGameLibrary.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\MonoGameLibrary.pdb
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\mgcb.tool.restore
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal Plague.csproj.AssemblyReference.cache
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal Plague.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal Plague.AssemblyInfoInputs.cache
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal Plague.AssemblyInfo.cs
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal Plague.csproj.CoreCompileInputs.cache
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal Plague.sourcelink.json
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal .8845E836.Up2Date
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal Plague.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\refint\Eternal Plague.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal Plague.pdb
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\Eternal Plague.genruntimeconfig.cache
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\obj\Debug\net9.0\ref\Eternal Plague.dll
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\pollo mecha me cha.xnb
+c:\Users\alumno.ET26\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\images\serpiente.xnb
