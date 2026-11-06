@@ -326,19 +326,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alumno.ET26\\.nuget\\packages\\": {}
+    "C:\\Users\\laugt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj",
+      "projectUniqueName": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj",
       "projectName": "Eternal Plague",
-      "projectPath": "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj",
-      "packagesPath": "C:\\Users\\alumno.ET26\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\obj\\",
+      "projectPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj",
+      "packagesPath": "C:\\Users\\laugt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alumno.ET26\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\laugt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -353,8 +353,8 @@
           "framework": "net9.0",
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {
-              "projectPath": "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj"
+            "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+              "projectPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj"
             }
           }
         }
@@ -399,6 +399,10 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.17, 9.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[9.0.17, 9.0.17]"
           },
           {

@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Xml;
@@ -11,6 +12,7 @@ namespace MonoGameLibrary.Graphics;
 public class TextureAtlas
 {
     private Dictionary<string, TextureRegion> _regions;
+    private Dictionary<string, Animation> _animations;
 
     /// <summary>
     /// Gets or Sets the source texture represented by this texture atlas.
@@ -23,6 +25,7 @@ public class TextureAtlas
     public TextureAtlas()
     {
         _regions = new Dictionary<string, TextureRegion>();
+        _animations = new Dictionary<string, Animation>();
     }
 
     /// <summary>
@@ -33,7 +36,13 @@ public class TextureAtlas
     {
         Texture = texture;
         _regions = new Dictionary<string, TextureRegion>();
+        _animations = new Dictionary<string, Animation>();
     }
+public AnimatedSprite CreateAnimatedSprite(string animationName)
+{
+    Animation animation = GetAnimation(animationName);
+    return new AnimatedSprite(animation);
+}
 
     /// <summary>
     /// Creates a new region and adds it to this texture atlas.
@@ -43,6 +52,20 @@ public class TextureAtlas
     /// <param name="y">The top-left y-coordinate position of the region boundary relative to the top-left corner of the source texture boundary.</param>
     /// <param name="width">The width, in pixels, of the region.</param>
     /// <param name="height">The height, in pixels, of the region.</param>
+public void AddAnimation(string animationName, Animation animation)
+{
+    _animations.Add(animationName, animation);
+}
+
+public Animation GetAnimation(string animationName)
+{
+    return _animations[animationName];
+}
+public bool RemoveAnimation(string animationName)
+{
+    return _animations.Remove(animationName);
+}
+
     public void AddRegion(string name, int x, int y, int width, int height)
     {
         TextureRegion region = new TextureRegion(Texture, x, y, width, height);
@@ -130,6 +153,34 @@ public class TextureAtlas
                         }
                     }
                 }
+            var animationElements = root.Element("Animations").Elements("Animation");
+
+            if (animationElements != null)
+            {
+                foreach (var animationElement in animationElements)
+                {
+                    string name = animationElement.Attribute("name")?.Value;
+                    float delayInMilliseconds = float.Parse(animationElement.Attribute("delay")?.Value ?? "0");
+                    TimeSpan delay = TimeSpan.FromMilliseconds(delayInMilliseconds);
+
+                    List<TextureRegion> frames = new List<TextureRegion>();
+
+                    var frameElements = animationElement.Elements("Frame");
+
+                    if (frameElements != null)
+                    {
+                        foreach (var frameElement in frameElements)
+                        {
+                            string regionName = frameElement.Attribute("region").Value;
+                            TextureRegion region = atlas.GetRegion(regionName);
+                            frames.Add(region);
+                        }
+                    }
+
+                    Animation animation = new Animation(frames, delay);
+                    atlas.AddAnimation(name, animation);
+                }
+            }
 
                 return atlas;
             }

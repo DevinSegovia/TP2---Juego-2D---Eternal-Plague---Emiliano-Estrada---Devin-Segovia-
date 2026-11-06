@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+    <Texture>images/Alacran_mini_caminando</Texture>
+    <Regions>
+        <Region name="alacran-1" x="17" y="15" width="28" height="28" />
+        <Region name="alacran-2" x="81" y="15" width="28" height="28" />
+        <Region name="alacran-3" x="17" y="79" width="28" height="28" />
+    </Regions>
+    <Animations>
+        <Animation name="alacran-quieto" delay="200">
+            <Frame region="alacran-1" />
+        </Animation>
+        <Animation name="alacran-movimiento" delay="1000">
+            <Frame region="alacran-1" />
+            <Frame region="alacran-2" />
+            <Frame region="alacran-3" />
+        </Animation>
+    </Animations>
+</TextureAtlas>

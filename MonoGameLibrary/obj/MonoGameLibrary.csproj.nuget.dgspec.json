@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
+    "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj",
-        "packagesPath": "C:\\Users\\alumno.ET26\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumno.ET26\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\obj\\",
+        "projectPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "packagesPath": "C:\\Users\\laugt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alumno.ET26\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\laugt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

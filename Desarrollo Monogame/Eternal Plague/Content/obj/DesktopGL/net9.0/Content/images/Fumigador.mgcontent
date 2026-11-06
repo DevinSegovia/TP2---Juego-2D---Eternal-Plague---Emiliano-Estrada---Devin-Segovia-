@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Users/alumno.ET26/Desktop/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/Fumigador.png</SourceFile>
-  <SourceTime>2026-10-29T08:22:57.2304303-03:00</SourceTime>
-  <DestFile>c:/Users/alumno.ET26/Desktop/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/bin/DesktopGL/Content/images/Fumigador.xnb</DestFile>
-  <DestTime>2026-10-30T11:27:21.7116232-03:00</DestTime>
+  <SourceFile>C:/Users/laugt/Desktop/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/fumigador.png</SourceFile>
+  <SourceTime>2026-10-30T01:41:46.3328403-03:00</SourceTime>
+  <DestFile>C:/Users/laugt/Desktop/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/bin/DesktopGL/Content/images/fumigador.xnb</DestFile>
+  <DestTime>2026-11-05T20:36:11.4057278-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2026-08-14T18:50:10-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
