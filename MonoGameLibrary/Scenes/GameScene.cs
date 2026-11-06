@@ -146,6 +146,7 @@ public class GameScene : Scene
             if (ChocaConAlacran(_fum_posicion, _alacranes[i]))
             {
                 _fum_posicion = s_posicionInicial;
+                Core.ChangeScene(new GameOverScene()); 
             }
         }
 

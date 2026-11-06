@@ -50,3 +50,16 @@ C:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devi
 C:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
 C:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
 C:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.deps.json
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.dll
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.pdb
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.AssemblyReference.cache
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfoInputs.cache
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfo.cs
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.sourcelink.json
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.dll
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
+c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll

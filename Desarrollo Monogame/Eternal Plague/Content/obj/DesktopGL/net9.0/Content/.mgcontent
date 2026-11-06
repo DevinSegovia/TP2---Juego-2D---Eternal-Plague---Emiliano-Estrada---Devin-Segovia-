@@ -4,12 +4,14 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/laugt/Desktop/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/Alacran_mini_caminando.png</File>
-    <File>C:/Users/laugt/Desktop/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/fumigador.png</File>
-    <File>C:/Users/laugt/Desktop/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/PisoPared.png</File>
-    <File>C:/Users/laugt/Desktop/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/serpiente.png</File>
+    <File>c:/Users/ASUS/documents/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/audio/ui.wav</File>
+    <File>c:/Users/ASUS/documents/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/Alacran_mini_caminando.png</File>
+    <File>c:/Users/ASUS/documents/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/fumigador.png</File>
+    <File>c:/Users/ASUS/documents/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/PisoPared.png</File>
+    <File>c:/Users/ASUS/documents/TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-/Desarrollo Monogame/Eternal Plague/Content/images/serpiente.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
