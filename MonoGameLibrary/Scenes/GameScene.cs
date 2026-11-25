@@ -27,15 +27,14 @@ public class GameScene : Scene
         }
     }
 
-    private const int s_cantidadAlacranes = 6;
-    private const int s_tamanoProyectil = 8;
+    private const int s_cantidadAlacranes = 6, s_tamanoProyectil = 8;
+    private int cantOleadas = 0;
     private static readonly Vector2 s_posicionInicial = new(50, 80);
     private Vector2 _fum_posicion, _fum_origen;
     private AnimatedSprite _fumigadorSprite,_fumigadorSpritemovimientolateral,_fumigadorSpritemovimiento,alacranspritemovimento;
     private Texture2D _texturaProyectil;
-    private float rotar;
-    private bool isws=false;
-    private bool isad=false;
+    private float rotar, velocidad = 1.0f;
+    private bool isws=false, isad=false;
     private TextureAtlas atlasalcran,atlas;
 
     private readonly List<Vector2> _alacranes = new();
@@ -43,12 +42,8 @@ public class GameScene : Scene
 
     private List<Rectangle> _colisiones = new List<Rectangle>();
 
-    private Tilemap _piso;
-
-    private Tilemap _paredes;
-
-    private int _fumAncho = 24;
-    private int _fumAlto = 24;
+    private Tilemap _piso, _paredes;
+    private int _fumAncho = 24, _fumAlto = 24;
      private bool ChocaConPared(Vector2 posicion) //fija al jugador si choca con la pared
     {
         Rectangle jugador = new Rectangle(
@@ -129,7 +124,7 @@ public class GameScene : Scene
             }
 
             Vector2 posicionAnterior = _alacranes[i];
-            Vector2 movimiento = direccion * 1.0f;
+            Vector2 movimiento = direccion * velocidad * (float)gameTime.ElapsedGameTime.TotalSeconds * 60f;
 
             Vector2 nuevaPosicion = new(posicionAnterior.X + movimiento.X, posicionAnterior.Y);
             if (!ChocaConParedAlacran(nuevaPosicion))
@@ -153,6 +148,10 @@ public class GameScene : Scene
         if (_alacranes.Count == 0)
         {
             _alacranes.AddRange(GenerarPosicionesAlacranes());
+            if (cantOleadas < 5){
+            velocidad += 0.2f;
+            }
+            cantOleadas++;
         }
 
         alacranspritemovimento.Update(gameTime);

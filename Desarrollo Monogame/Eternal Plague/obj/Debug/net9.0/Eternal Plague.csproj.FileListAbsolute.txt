@@ -308,3 +308,10 @@ c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Dev
 c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\MonoGameGum.dll
 c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 c:\Users\ASUS\documents\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\TextCopy.dll
+c:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Content\audio\ui.xnb
+c:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\CsvHelper.dll
+c:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\GumCommon.dll
+c:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\FlatRedBall.InterpolationCore.dll
+c:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\MonoGameGum.dll
+c:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\laugt\Desktop\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\Desarrollo Monogame\Eternal Plague\bin\Debug\net9.0\TextCopy.dll

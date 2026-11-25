@@ -13,6 +13,19 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin ../../../../../Downloads/Fumigador.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/processorParam:Version=3.8.5.1
+/build:../../../../../Downloads/Fumigador.png;images/Fumigador.png
+
 #begin audio/ui.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
@@ -33,13 +46,7 @@
 /processorParam:Version=3.8.5.1
 /build:images/Alacran_mini_caminando.png
 
-#begin images/Atlasalacran-definition.xml
-/copy:images/Atlasalacran-definition.xml
-
-#begin images/Atlasfumigador-definition.xml
-/copy:images/Atlasfumigador-definition.xml
-
-#begin images/fumigador.png
+#begin images/Alacran_mini_caminando.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -50,7 +57,13 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /processorParam:Version=3.8.5.1
-/build:images/fumigador.png
+/build:images/Alacran_mini_caminando.png
+
+#begin images/Atlasalacran-definition.xml
+/copy:images/Atlasalacran-definition.xml
+
+#begin images/Atlasfumigador-definition.xml
+/copy:images/Atlasfumigador-definition.xml
 
 #begin images/PisoPared.png
 /importer:TextureImporter

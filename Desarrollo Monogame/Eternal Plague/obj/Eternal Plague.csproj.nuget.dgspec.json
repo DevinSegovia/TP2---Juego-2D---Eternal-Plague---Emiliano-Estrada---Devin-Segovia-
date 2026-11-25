@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj": {}
+    "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj": {
+    "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj",
+        "projectUniqueName": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj",
         "projectName": "Eternal Plague",
-        "projectPath": "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\obj\\",
+        "projectPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\Eternal Plague.csproj",
+        "packagesPath": "C:\\Users\\laugt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\Desarrollo Monogame\\Eternal Plague\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\laugt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,10 +26,11 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
-              "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {
-                "projectPath": "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj"
+              "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+                "projectPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj"
               }
             }
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "Gum.MonoGame": {
@@ -77,19 +79,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.17, 9.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.17, 9.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.17, 9.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.17, 9.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -97,21 +99,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ASUS\\documents\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\obj\\",
+        "projectPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "packagesPath": "C:\\Users\\laugt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laugt\\Desktop\\TP2---Juego-2D---Eternal-Plague---Emiliano-Estrada---Devin-Segovia-\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\laugt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -123,6 +125,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -137,10 +140,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "MonoGame.Framework.DesktopGL": {
@@ -163,15 +167,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.17, 9.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.17, 9.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.17, 9.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -179,7 +183,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas>
-    <Texture>images/fumigador</Texture>
+    <Texture>images/Fumigador</Texture>
     <Regions>
-        <Region name="fumigador-1" x="7" y="8" width="47" height="47" />
-        <Region name="fumigador-2" x="72" y="8" width="47" height="47" />
-        <Region name="fumigador-3" x="7" y="72" width="47" height="47" />
-        <Region name="fumigador-4" x="72" y="72" width="47" height="47" />
-        <Region name="fumigador-5" x="7" y="136" width="47" height="47" />
+        <Region name="fumigador-1" x="7" y="3" width="47" height="50" />
+        <Region name="fumigador-2" x="72" y="3" width="47" height="50" />
+        <Region name="fumigador-3" x="7" y="67" width="47" height="50" />
+        <Region name="fumigador-4" x="72" y="67" width="47" height="50" />
+        <Region name="fumigador-5" x="7" y="131" width="47" height="50" />
     </Regions>
     <Animations>
         <Animation name="fumigador-quieto" delay="200">

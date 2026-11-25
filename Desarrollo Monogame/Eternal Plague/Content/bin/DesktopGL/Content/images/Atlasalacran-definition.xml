@@ -10,7 +10,7 @@
         <Animation name="alacran-quieto" delay="200">
             <Frame region="alacran-1" />
         </Animation>
-        <Animation name="alacran-movimiento" delay="1000">
+        <Animation name="alacran-movimiento" delay="400">
             <Frame region="alacran-1" />
             <Frame region="alacran-2" />
             <Frame region="alacran-3" />
